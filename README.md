@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python projects
-- 📫 How to reach me My insta =@aayush_yadav005
+- 📫 How to reach me My insta =i.aayushyadav
 - 😄 Pronouns: 
 - ⚡ Fun fact: I dont know how to code
 
